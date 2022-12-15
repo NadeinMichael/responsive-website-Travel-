@@ -1,0 +1,16 @@
+.header__lang-link_active {
+  position: relative;
+}
+
+.header__lang-link_active::before {
+  content: "";
+
+  position: absolute;
+  left: 0;
+  top: 100%;
+
+  display: block;
+  height: 2px;
+  width: 100%;
+  background-color: #fff;
+}
