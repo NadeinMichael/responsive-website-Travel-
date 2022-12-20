@@ -1,6 +1,6 @@
 /* Сторонние файлы */
 @import url("../vendor/normalize.css");
-@import url("../vendor/fonts/inter.css");
+@import url("../vendor/fonts/fonts.css");
 /* Block Page */
 @import url("../blocks/page/page.css");
 /* Block Header */
