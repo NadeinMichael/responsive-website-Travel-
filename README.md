@@ -15,4 +15,4 @@
 - Ховер эффекты
 
 **Git Hub Pages**
-https://vladtolmachev.github.io/yet-another-project/
+https://nadeinmichael.github.io/yet-another-project/
