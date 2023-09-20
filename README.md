@@ -1,18 +1,17 @@
-# Проект: Путешествие по России
+# Project: Traveling around Russia
 
-**Интро**
+**Intro**
 
-Проек о путешествиях по России с приминением адаптивной верстки и гридов.
+A project about traveling around Russia using adaptive layout and grids.
 
-**Технологии**
+**Technologies**
 
-Используется адаптивная верстка с приминением media запросов. Так же используются такие технологие, как:
+Adaptive layout using media queries is used. Technologies such as:
 
-- Флекс-боксы
+- Flex boxes
 
-- Гриды
+- Grids
 
-- Ховер эффекты
-
+- Hover effects
 **Git Hub Pages**
 https://nadeinmichael.github.io/yet-another-project/
