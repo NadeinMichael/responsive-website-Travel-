@@ -14,4 +14,4 @@ Adaptive layout using media queries is used. Technologies such as:
 
 - Hover effects
 **Git Hub Pages**
-https://nadeinmichael.github.io/yet-another-project/
+ https://nadeinmichael.github.io/responsive-website-Travel-/
